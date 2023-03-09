@@ -10,8 +10,8 @@
 - 🙏 Reference me on [Mazury](https://app.mazury.xyz/people/0x85c1bBDC1B6A199e0964cb849deb59aEF3045eDd)
 
 ### 🏆 Achievements
-- [Sybil Slayer - Gitcoin Open Data Science Hackathon](https://bounties.gitcoin.co/issue/29389) Hackathon winner
-- [The OpenData Community "DataBuilders" Hackathon](https://bounties.gitcoin.co/issue/29676) Hackathon winner 
+- [Sybil Slayer - Gitcoin Open Data Science Hackathon](https://bounties.gitcoin.co/issue/29389) **Hackathon winner**
+- [The OpenData Community "DataBuilders" Hackathon](https://bounties.gitcoin.co/issue/29676) **Hackathon winner**
 
 
 ![Profile views](https://gpvc.arturio.dev/poupou-web3)  <img src="https://img.shields.io/github/followers/poupou-web3?label=Follow" style=" float:left, margin-right:10px" />
