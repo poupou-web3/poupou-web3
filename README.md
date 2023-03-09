@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on anything related to blockchain data
 
 - 💬 Come and talk
-- 📫 How to reach me: on Discord at PouPou#7730 or on Twitter
+- 📫 How to reach me: on Discord at PouPou#7730 or on [Twitter](https://twitter.com/PoupouWeb3)
 
 
 ![Profile views](https://gpvc.arturio.dev/poupou-web3)  <img src="https://img.shields.io/github/followers/poupou-web3?label=Follow" style=" float:left, margin-right:10px" />
