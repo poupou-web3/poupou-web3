@@ -1,8 +1,8 @@
 
 ### Hey Poupou here 👋
 
-- 🔭 I’m currently working on fighting sybils and building a dApp related to image generation.
-- :books: I'm improving my Solidity
+- 🔭 I’m currently working on fighting sybils.
+- :books: I'm improving my Solidity and data infrastructure knowledge.
 - 🌱 I’m currently learning Javascript, and other languages with [buildspace](https://buildspace.so/)
 - 👯 I’m looking to collaborate on anything related to blockchain data
 - 💬 Come and talk
