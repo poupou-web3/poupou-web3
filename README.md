@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on fighting sybils.
 - :books: I'm improving my Solidity and data infrastructure knowledge.
-- 🌱 I’m currently learning Javascript, and other languages with [buildspace](https://buildspace.so/)
 - 👯 I’m looking to collaborate on anything related to blockchain data
 - 💬 Come and talk
 - 📫 How to reach me: on Discord at PouPou#7730 or on [Twitter](https://twitter.com/PoupouWeb3)
