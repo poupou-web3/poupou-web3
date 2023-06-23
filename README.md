@@ -12,7 +12,7 @@
 - [The OpenData Community "DataBuilders" Hackathon](https://bounties.gitcoin.co/issue/29676) **Hackathon winner**
 
 
-![Profile views](https://gpvc.arturio.dev/poupou-web3)  <img src="https://img.shields.io/github/followers/poupou-web3?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=poupou-web3&style=flat)  <img src="https://img.shields.io/github/followers/poupou-web3?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
