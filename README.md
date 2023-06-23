@@ -5,8 +5,7 @@
 - :books: I'm improving my Solidity and data infrastructure knowledge.
 - 👯 I’m looking to collaborate on anything related to blockchain data
 - 💬 Come and talk
-- 📫 How to reach me: on Discord at PouPou#7730 or on [Twitter](https://twitter.com/PoupouWeb3)
-- 🙏 Reference me on [Mazury](https://app.mazury.xyz/people/0x85c1bBDC1B6A199e0964cb849deb59aEF3045eDd)
+- 📫 How to reach me: on Discord at poupou.eth or on [Twitter](https://twitter.com/PoupouWeb3)
 
 ### 🏆 Achievements
 - [Sybil Slayer - Gitcoin Open Data Science Hackathon](https://bounties.gitcoin.co/issue/29389) **Hackathon winner**
