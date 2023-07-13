@@ -2,7 +2,7 @@
 ### Hey Poupou here 👋
 
 - 🔭 I’m currently working on fighting sybils.
-- :books: I'm improving my Solidity and data infrastructure knowledge.
+- :books: Whatever subject is interesting to me at some point in time.
 - 👯 I’m looking to collaborate on anything related to blockchain data
 - 💬 Come and talk
 - 📫 How to reach me: on Discord at poupou.eth or on [Twitter](https://twitter.com/PoupouWeb3)
